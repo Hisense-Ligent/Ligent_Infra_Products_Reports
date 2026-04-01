@@ -12,7 +12,7 @@ Ligent has prepared high-performance hardware and deployed the SONiC_MGMT platfo
 | Server | Dell R730 | 2 |
 | Switch | Edgecore 800G OSFP (TH5) | 2 |
 | Switch | Cisco 8101-32H | 2 |
-| NIC | Nvidia 4700 | 2 |
+| Switch | Nvidia 4700 | 2 |
 | NIC | Nvidia CX-7 400G | 2 |
 | NIC | AMD Pensando 400G | 2 |
 
